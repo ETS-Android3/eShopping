@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">eShopping</string>
+
+    <string name="first_slider">Chose Your Products</string>
+    <string name="second_slider">Fast Delivery</string>
+    <string name="third_slider">Good Service</string>
+
+    <string name="duscraption">Lorem Ipsum is simply dummy
+                                text of the printing and typesetting industry standard dummy text ever since the</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
